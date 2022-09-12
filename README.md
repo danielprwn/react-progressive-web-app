@@ -3,7 +3,7 @@
 ✔ Ability to convert the entered text into speech.
 
 ## Technologies
-✅ HTML ✅ Material UI ⚛ React JS
+✅ HTML ✅ CSS inline styles ⚛ React JS
 
 
 Download the repository and run it locally:
